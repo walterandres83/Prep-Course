@@ -1,4 +1,4 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -12,9 +12,9 @@
   </tr>
 </table>
 
-# JavaScript II 
+# JavaScript II
 
-#### Flujos de control, operadores de comparación, bucles ***for***
+#### Flujos de control, operadores lógicos, bucles ***for***
 
 <!-- En esta lección cubriremos:
 
@@ -281,8 +281,6 @@ Te invitamos a buscar en Google información de estos conceptos para poder desar
 * Recomendado buscar en inglés: ¡Aparecen mejores y mayor cantidad de resultados! Ej: "switch statement javascript".
 * Recordemos aclarar el lenguaje en el que estamos buscando el tema, como en el ejemplo de arriba donde aclaramos javascript, ya que un mismo tema puede existir en distintos lenguajes de programación y funcionar de manera distinta en cada uno de ellos.
 * Uno de los primeros resultados que vas a encontrar será MDN (Mozilla Developer Network): es una web muy completa que incluye tanto documentación como ejemplos.
-
-
 
     <summary>Spoiler, resultado de búsqueda en Google!</summary>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch">MDN : Switch</a>
